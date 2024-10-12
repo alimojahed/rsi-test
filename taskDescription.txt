@@ -1,0 +1,13 @@
+Welcome to RSI entrance challenge !
+Computer Vision Task :
+
+Step1: detect and decode qrcode image (You have to correct prespective view of qrcode and change the view angle to bird-eye view before decoding! )
+
+Step2: after decoding you will have a number that you have to use it for the image that you should open it based on that number and 
+       classify what is the exact object inside that image , is it a giraffe, a lion, or a human ?
+
+wish you luck!
+feel free to use pretrained models but keep the efficiency!
+Always ask questions if you need to.
+See you at RSI :)
+

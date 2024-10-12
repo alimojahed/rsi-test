@@ -1,0 +1,6 @@
+numpy==1.24.4
+opencv_contrib_python==4.7.0.72
+opencv_python==4.10.0.84
+opencv_python_headless==4.10.0.84
+pyzbar==0.1.9
+ultralytics==8.3.10
